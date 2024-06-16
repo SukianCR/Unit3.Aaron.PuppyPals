@@ -1,0 +1,28 @@
+.alert-success {
+  background-color: rgba(26, 23, 23, 0.808) !important;
+  border: rgb(178, 243, 37) 2em solid !important;
+  color: rgb(255, 255, 255) !important;
+}
+
+.hotpink {
+  color: hotpink;
+  padding: 1em;
+  border-bottom: 1px solid yellowgreen;
+}
+
+.hotpink > ul > li {
+  list-style: none;
+}
+
+.hotpink > p {
+  font-weight: 450;
+  font-size: 1.5em;
+}
+
+.allPuppies {
+  padding-top: 2em;
+}
+
+h2 {
+  font-size: 1.5em !important;
+}
